@@ -1,6 +1,6 @@
-local passwords = {'mksteven', '00000', '3hjtyjywr2r2qw', '123456'} -- list of all valid passwords here
+local passwords = {'mklander', '11111', '3hjtyjywr2r2qw', '123456'} -- list of all valid passwords here
 
-local input = gg.prompt({'Enter password:'}, nil, {'text'})
+local input = gg.prompt({'Enter password pvtito:'}, nil, {'text'})
 if input == nil then
   -- Something to do, if user cancelled prompt window
 else
@@ -21,7 +21,7 @@ function HOME()
   MN = gg.choice({
     "👹 Data ON OF ",
     "🏛️ WhallHack",
-    "🎨 COLOUR",
+    "🎨 COLOR",
     "💪 Hack Weapon",
     "🎮 Hack Game",
     "❌ 【EXİT】"
@@ -2536,6 +2536,7 @@ function HG9()
   gg.clearResults()
   gg.toast(" Fast Parachute activate✓ ")
 end-- function | landerく彡
+
 
 function EXIT()
   print("  🇨🇴cheats steven Script  ")
