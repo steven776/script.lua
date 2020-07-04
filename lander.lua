@@ -1,4 +1,4 @@
-local passwords = {'mksteven', '00000', '3hjtyjywr2r2qw', '123456'} -- list of all valid passwords here
+local passwords = {'mklander', '11111', '3hjtyjywr2r2qw', '123456'} -- list of all valid passwords here
 
 local input = gg.prompt({'Enter password:'}, nil, {'text'})
 if input == nil then
@@ -25,47 +25,47 @@ function HOME()
     "💪 Hack Weapon",
     "🎮 Hack Game",
     "❌ 【EXİT】"
-  }, nil, (os.date("       🇨🇴cheats steven         .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
+  }, nil, (os.date("       🇺🇸cheats lander       .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
   if MN == nil then
   else
     if MN == 1 then
       DT()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN == 2 then
       WH()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN == 3 then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN == 4 then
       HM()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN == 5 then
       HG()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN == 6 then
       EXIT()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function DT()
   MN1 = gg.multiChoice({
     "👹DATA ON OF ZONE [ 1 2 3 ]",
     "🔙【 BACK 】"
-  }, nil, (os.date("       🇨🇴cheats steven         .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
+  }, nil, (os.date("       🇺🇸cheats lander       .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
   if MN1 == nil then
   else
     if MN1[1] == true then
       DT1()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN1[2] == true then
       HOME()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function DT1()
   gg.clearResults()
@@ -79,7 +79,7 @@ function DT1()
   gg.setVisible(false)
   gg.editAll("1.1754945e-37", gg.TYPE_FLOAT)
   gg.clearResults()
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH()
   MN2 = gg.multiChoice({
@@ -121,126 +121,126 @@ function WH()
     "🏛️Whallhack SD 845",
     "🏛️Whallhack SD 855",
     "🔙【 BACK 】"
-  }, nil, (os.date("       🇨🇴cheats steven         .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
+  }, nil, (os.date("       🇺🇸cheats lander       .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
   if MN2 == nil then
   else
     if MN2[1] == true then
       WH1()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[2] == true then
       WH2()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[3] == true then
       WH3()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[4] == true then
       WH4()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[5] == true then
       WH5()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[6] == true then
       WH6()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[7] == true then
       WH7()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[8] == true then
       WH8()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[9] == true then
       WH9()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[10] == true then
       WH10()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[11] == true then
       WH11()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[12] == true then
       WH12()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[13] == true then
       WH13()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[14] == true then
       WH14()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[15] == true then
       WH15()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[16] == true then
       WH16()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[17] == true then
       WH17()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[18] == true then
       WH18()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[19] == true then
       WH19()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[20] == true then
       WH20()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[21] == true then
       WH21()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[22] == true then
       WH22()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[23] == true then
       WH23()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[24] == true then
       WH24()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[25] == true then
       WH25()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[26] == true then
       WH26()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[27] == true then
       WH27()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[28] == true then
       WH28()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[29] == true then
       WH29()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[30] == true then
       WH30()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[31] == true then
       WH31()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[32] == true then
       WH32()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[33] == true then
       WH33()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[34] == true then
       WH34()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[35] == true then
       WH35()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[36] == true then
       WH36()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[37] == true then
       WH37()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN2[38] == true then
       HOME()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH1()
   gg.clearResults()
@@ -257,7 +257,7 @@ function WH1()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 400 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH2()
   gg.clearResults()
@@ -280,7 +280,7 @@ function WH2()
   gg.editAll("8204", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Wallhack 410 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH3()
   gg.clearResults()
@@ -302,7 +302,7 @@ function WH3()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 415 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH4()
   gg.clearResults()
@@ -318,7 +318,7 @@ function WH4()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 425 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH5()
   gg.clearResults()
@@ -328,7 +328,7 @@ function WH5()
   gg.editAll("150", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 430 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH6()
   gg.clearResults()
@@ -351,7 +351,7 @@ function WH6()
   gg.editAll("120", gg.POINTER_WRITABLE)
   gg.clearResults()
   gg.toast("☬ Wallhack 435 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH7()
   gg.clearResults()
@@ -368,7 +368,7 @@ function WH7()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 439 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH8()
   gg.clearResults()
@@ -409,7 +409,7 @@ function WH8()
   gg.getResults(30)
   gg.editAll("150", gg.TYPE_FLOAT)
   gg.toast("☬ Wallhack 450 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH9()
   gg.clearResults()
@@ -426,7 +426,7 @@ function WH9()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 600 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH10()
   gg.clearResults()
@@ -443,7 +443,7 @@ function WH10()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 610 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH11()
   gg.clearResults()
@@ -459,7 +459,7 @@ function WH11()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 615 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH12()
   gg.clearResults()
@@ -476,7 +476,7 @@ function WH12()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 616 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH13()
   gg.clearResults()
@@ -492,7 +492,7 @@ function WH13()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 625 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH14()
   gg.clearResults()
@@ -521,7 +521,7 @@ function WH14()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 626 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH15()
   gg.clearResults()
@@ -539,7 +539,7 @@ function WH15()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 630 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH16()
   gg.clearResults()
@@ -557,7 +557,7 @@ function WH16()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 632 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH17()
   gg.clearResults()
@@ -572,7 +572,7 @@ function WH17()
   gg.getResults(100)
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.toast("☬ Wallhack 636 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH18()
   gg.clearResults()
@@ -588,7 +588,7 @@ function WH18()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 650 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH19()
   gg.clearResults()
@@ -604,7 +604,7 @@ function WH19()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 652 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH20()
   gg.clearResults()
@@ -620,7 +620,7 @@ function WH20()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 653 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH21()
   gg.clearResults()
@@ -635,7 +635,7 @@ function WH21()
   gg.getResults(30)
   gg.editAll("120", 16)
   gg.toast("☬ Wallhack 660 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH22()
   gg.clearResults()
@@ -651,7 +651,7 @@ function WH22()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 665 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH23()
   gg.clearResults()
@@ -667,7 +667,7 @@ function WH23()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 670 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH24()
   gg.clearResults()
@@ -683,7 +683,7 @@ function WH24()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 675 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH25()
   gg.clearResults()
@@ -698,7 +698,7 @@ function WH25()
   gg.editAll("0", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 710 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH26()
   gg.clearResults()
@@ -713,7 +713,7 @@ function WH26()
   gg.editAll("0", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 712 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH27()
   gg.clearResults()
@@ -729,7 +729,7 @@ function WH27()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 800 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH28()
   gg.clearResults()
@@ -744,7 +744,7 @@ function WH28()
   revert = gg.getResults(3000, nil, nil, nil, nil, nil, nil, nil, nil)
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.toast("☬ Wallhack 801 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH29()
   gg.clearResults()
@@ -761,7 +761,7 @@ function WH29()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 805 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH30()
   gg.clearResults()
@@ -778,7 +778,7 @@ function WH30()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 808 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH31()
   gg.clearResults()
@@ -794,7 +794,7 @@ function WH31()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 810 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH32()
   gg.clearResults()
@@ -811,7 +811,7 @@ function WH32()
   gg.editAll("130", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 815 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH33()
   gg.clearResults()
@@ -827,7 +827,7 @@ function WH33()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 820 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH34()
   gg.clearResults()
@@ -844,7 +844,7 @@ function WH34()
   gg.editAll("130", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wallhack 821 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH35()
   gg.clearResults()
@@ -865,7 +865,7 @@ function WH35()
   gg.getResults(5)
   gg.editAll("9999", gg.TYPE_FLOAT)
   gg.toast("☬ Wallhack 835 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH36()
   gg.clearResults()
@@ -893,7 +893,7 @@ function WH36()
   gg.getResults(10)
   gg.editAll("130", gg.TYPE_FLOAT)
   gg.toast("☬ Wallhack 845 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function WH37()
   gg.clearResults()
@@ -913,7 +913,7 @@ function WH37()
   gg.getResults(30)
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.toast("☬ Wallhack 855 [Graphic Smooth] ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH()
   MN3 = gg.multiChoice({
@@ -939,99 +939,99 @@ function CH()
     "🎨Colour SD845 ",
     "🎨Colour SD855 ",
     "🔙【 BACK 】"
-  }, nil, (os.date("       🇨🇴cheats steven         .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
+  }, nil, (os.date("       🇺🇸cheats lander       .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
   if MN3 == nil then
   else
     if MN3[1] == true then
       CH1()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[2] == true then
       CH2()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[3] == true then
       CH3()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[4] == true then
       CH4()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[5] == true then
       CH5()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[6] == true then
       CH6()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[7] == true then
       CH7()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[8] == true then
       CH8()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[9] == true then
       CH9()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[10] == true then
       CH10()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[11] == true then
       CH11()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[12] == true then
       CH12()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[13] == true then
       CH13()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[14] == true then
       CH14()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[15] == true then
       CH15()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[16] == true then
       CH16()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[17] == true then
       CH17()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[18] == true then
       CH18()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[19] == true then
       CH19()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[20] == true then
       CH20()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[21] == true then
       CH21()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN3[22] == true then
       HOME()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH1()
   CH400 = gg.multiChoice({
     "Green Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH400 == nil then
   else
     if CH400[1] == true then
       r4001()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH400[2] == true then
       r4002()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH400[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4001()
   gg.clearResults()
@@ -1042,7 +1042,7 @@ function r4001()
   gg.editAll("8", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 400 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4002()
   gg.setRanges(gg.REGION_BAD)
@@ -1057,28 +1057,28 @@ function r4002()
   gg.editAll("9999", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 400 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH2()
   CH410 = gg.multiChoice({
     "Green Colour",
     "Red Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH410 == nil then
   else
     if CH410[1] == true then
       r4101()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH410[2] == true then
       r4102()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH410[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4101()
   gg.clearResults()
@@ -1089,7 +1089,7 @@ function r4101()
   gg.editAll("8", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 410 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4102()
   gg.clearResults()
@@ -1100,7 +1100,7 @@ function r4102()
   gg.editAll("6", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 410 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH3()
   gg.clearResults()
@@ -1120,28 +1120,28 @@ function CH3()
   gg.editAll("9999", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 415 ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH4()
   CH425 = gg.multiChoice({
     "Green Colour",
     "Red Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH425 == nil then
   else
     if CH425[1] == true then
       r4251()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH425[2] == true then
       r4252()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH425[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4251()
   gg.clearResults()
@@ -1156,7 +1156,7 @@ function r4251()
   gg.getResults(5)
   gg.editAll("9999", gg.TYPE_DWORD)
   gg.toast("☬ Color 425 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4252()
   gg.clearResults()
@@ -1166,28 +1166,28 @@ function r4252()
   gg.getResults(3)
   gg.editAll("8203", gg.TYPE_DWORD)
   gg.toast("☬ Color 425 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH5()
   CH430 = gg.multiChoice({
     "Green Colour",
     "Red Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH430 == nil then
   else
     if CH430[1] == true then
       r4301()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH430[2] == true then
       r4302()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH430[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4301()
   gg.clearResults()
@@ -1198,7 +1198,7 @@ function r4301()
   gg.editAll("99", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 430 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4302()
   gg.clearResults()
@@ -1209,7 +1209,7 @@ function r4302()
   gg.editAll("75", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 430 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH6()
   CH435 = gg.multiChoice({
@@ -1217,24 +1217,24 @@ function CH6()
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH435 == nil then
   else
     if CH435[1] == true then
       r4351()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH435[2] == true then
       r4352()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH435[3] == true then
       r4353()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH435[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4351()
   gg.clearResults()
@@ -1245,7 +1245,7 @@ function r4351()
   gg.editAll("99", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 435 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4352()
   gg.clearResults()
@@ -1255,7 +1255,7 @@ function r4352()
   gg.editAll("7", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 435 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4353()
   gg.clearResults()
@@ -1265,7 +1265,7 @@ function r4353()
   gg.getResults(3)
   gg.editAll("6", gg.TYPE_DWORD)
   gg.toast("☬ Color 435 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH7()
   CH450 = gg.multiChoice({
@@ -1273,24 +1273,24 @@ function CH7()
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH450 == nil then
   else
     if CH450[1] == true then
       r4501()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH450[2] == true then
       r4502()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH450[3] == true then
       r4503()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH450[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4501()
   gg.clearResults()
@@ -1301,7 +1301,7 @@ function r4501()
   gg.editAll("99", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 450 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4502()
   gg.clearResults()
@@ -1312,7 +1312,7 @@ function r4502()
   gg.editAll("75", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 450 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r4503()
   gg.clearResults()
@@ -1322,28 +1322,28 @@ function r4503()
   gg.getResults(10)
   gg.editAll("6", gg.TYPE_DWORD)
   gg.toast("☬ Color 450 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH8()
   CH610 = gg.multiChoice({
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH610 == nil then
   else
     if CH610[1] == true then
       r6101()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH610[2] == true then
       r6102()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH610[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6101()
   gg.clearResults()
@@ -1353,7 +1353,7 @@ function r6101()
   gg.getResults(10)
   gg.editAll("7", gg.TYPE_DWORD)
   gg.toast("☬ COLOR 610 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6102()
   gg.clearResults()
@@ -1363,7 +1363,7 @@ function r6102()
   gg.getResults(10)
   gg.editAll("6", gg.TYPE_DWORD)
   gg.toast("☬ COLOR 610 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH9()
   CH615 = gg.multiChoice({
@@ -1371,24 +1371,24 @@ function CH9()
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH615 == nil then
   else
     if CH615[1] == true then
       r6151()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH615[2] == true then
       r6152()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH615[3] == true then
       r6153()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH615[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6151()
   gg.clearResults()
@@ -1400,7 +1400,7 @@ function r6151()
   gg.editAll("R_R({5,159,46,192,77,231})", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 615 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6152()
   gg.clearResults()
@@ -1412,7 +1412,7 @@ function r6152()
   gg.editAll("R_R({5,159,46,192,78,222})", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 615 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6153()
   gg.clearResults()
@@ -1434,7 +1434,7 @@ function r6153()
   gg.getResults(10)
   gg.editAll("6", gg.TYPE_DWORD)
   gg.toast("☬ COLOR 615 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH10()
   CH625 = gg.multiChoice({
@@ -1442,24 +1442,24 @@ function CH10()
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH625 == nil then
   else
     if CH625[1] == true then
       r6251()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH625[2] == true then
       r6252()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH625[3] == true then
       r6253()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH625[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6251()
   gg.clearResults()
@@ -1479,7 +1479,7 @@ function r6251()
   gg.editAll("7169730606773831033", gg.TYPE_QWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 625 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6252()
   gg.clearResults()
@@ -1488,7 +1488,7 @@ function r6252()
   revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
   gg.editAll("4", gg.TYPE_DWORD)
   gg.toast("☬ COLOR 625 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6253()
   gg.clearResults()
@@ -1499,7 +1499,7 @@ function r6253()
   gg.getResults(20)
   gg.editAll("8198", gg.TYPE_DWORD)
   gg.toast("☬ COLOR 625 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH11()
   CH636 = gg.multiChoice({
@@ -1507,24 +1507,24 @@ function CH11()
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH636 == nil then
   else
     if CH636[1] == true then
       r6361()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH636[2] == true then
       r6362()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH636[3] == true then
       r6363()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH636[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6361()
   gg.clearResults()
@@ -1535,7 +1535,7 @@ function r6361()
   gg.editAll("9999", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 636 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6362()
   gg.clearResults()
@@ -1551,7 +1551,7 @@ function r6362()
   revert = gg.getResults(10, nil, nil, nil, nil, nil, nil, nil, nil)
   gg.editAll("B({55})", ggTYPE_DWORD)
   gg.toast("☬ COLOR 636 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6363()
   gg.clearResults()
@@ -1563,7 +1563,7 @@ function r6363()
   gg.editAll("6", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 636 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH12()
   gg.clearResults()
@@ -1573,7 +1573,7 @@ function CH12()
   gg.getResults(20)
   gg.editAll("7", gg.TYPE_DWORD)
   gg.toast("☬ COLOR 650 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH13()
   gg.clearResults()
@@ -1583,7 +1583,7 @@ function CH13()
   gg.getResults(10)
   gg.editAll("6", gg.TYPE_DWORD)
   gg.toast("☬ COLOR 653 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH14()
   CH660 = gg.multiChoice({
@@ -1591,24 +1591,24 @@ function CH14()
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH660 == nil then
   else
     if CH660[1] == true then
       r6601()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH660[2] == true then
       r6602()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH660[3] == true then
       r6603()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH660[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6601()
   gg.clearResults()
@@ -1617,7 +1617,7 @@ function r6601()
   gg.getResults(100)
   gg.editAll("32777", 4)
   gg.toast("☬ COLOR 660 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6602()
   gg.clearResults()
@@ -1627,7 +1627,7 @@ function r6602()
   gg.getResults(10)
   gg.editAll("7", 4)
   gg.toast("☬ COLOR 660 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6603()
   gg.clearResults()
@@ -1638,7 +1638,7 @@ function r6603()
   gg.editAll("6", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 660 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH15()
   CH665 = gg.multiChoice({
@@ -1646,24 +1646,24 @@ function CH15()
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH665 == nil then
   else
     if CH665[1] == true then
       r6651()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH665[2] == true then
       r6652()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH665[3] == true then
       r6653()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH665[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6651()
   gg.clearResults()
@@ -1673,7 +1673,7 @@ function r6651()
   gg.editAll("7", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 665 Green ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6652()
   gg.clearResults()
@@ -1684,7 +1684,7 @@ function r6652()
   gg.editAll("7", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 665 Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6653()
   gg.clearResults()
@@ -1695,7 +1695,7 @@ function r6653()
   gg.editAll("6", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 665 Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH16()
   CH675 = gg.multiChoice({
@@ -1703,24 +1703,24 @@ function CH16()
     "Blue Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH675 == nil then
   else
     if CH675[1] == true then
       r6751()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH675[2] == true then
       r6752()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH675[3] == true then
       r6753()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH675[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6751()
   gg.clearResults()
@@ -1730,7 +1730,7 @@ function r6751()
   gg.editAll("7", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 675 Green [Graphic Smooth] ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6752()
   gg.clearResults()
@@ -1741,7 +1741,7 @@ function r6752()
   gg.editAll("8198", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 675 Blue [Graphic Smooth] ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r6753()
   gg.clearResults()
@@ -1752,28 +1752,28 @@ function r6753()
   gg.editAll("8198", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ Color 675 Yellow V2 [Graphic Smooth] ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH17()
   CH710 = gg.multiChoice({
     "Green Colour",
     "Red Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH710 == nil then
   else
     if CH710[1] == true then
       r7101()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH710[2] == true then
       r7102()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH710[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r7101()
   gg.clearResults()
@@ -1781,7 +1781,7 @@ function r7101()
   gg.getResults(999)
   gg.editAll("8199", gg.TYPE_DWORD)
   gg.toast("☬ Green  ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r7102()
   gg.clearResults()
@@ -1790,28 +1790,28 @@ function r7102()
   gg.getResults(10)
   gg.editAll("7", gg.TYPE_DWORD)
   gg.toast("☬ Color  Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH18()
   CH712 = gg.multiChoice({
     "Green Colour",
     "Red Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH712 == nil then
   else
     if CH712[1] == true then
       r7121()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH712[2] == true then
       r7122()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH712[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r7121()
   gg.clearResults()
@@ -1819,7 +1819,7 @@ function r7121()
   gg.getResults(999)
   gg.editAll("8199", gg.TYPE_DWORD)
   gg.toast("☬ Green Colour ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r7122()
   gg.clearResults()
@@ -1828,7 +1828,7 @@ function r7122()
   gg.getResults(10)
   gg.editAll("7", gg.TYPE_DWORD)
   gg.toast("☬ Color  Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH19()
   CH835 = gg.multiChoice({
@@ -1836,24 +1836,24 @@ function CH19()
     "Red Colour",
     "Yellow Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH835 == nil then
   else
     if CH835[1] == true then
       r8351()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH835[2] == true then
       r8352()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH835[3] == true then
       r8353()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH835[4] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r8351()
   gg.clearResults()
@@ -1864,7 +1864,7 @@ function r8351()
   gg.editAll("8199", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 835 GREEN ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r8352()
   gg.clearResults()
@@ -1875,7 +1875,7 @@ function r8352()
   gg.editAll("8199", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 835 RED ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r8353()
   gg.clearResults()
@@ -1886,28 +1886,28 @@ function r8353()
   gg.editAll("8198", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 835 YELLOW ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH20()
   CH845 = gg.multiChoice({
     "Green Colour",
     "Red Colour",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH845 == nil then
   else
     if CH845[1] == true then
       r8451()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH845[2] == true then
       r8452()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH845[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r8451()
   gg.clearResults()
@@ -1915,7 +1915,7 @@ function r8451()
   gg.getResults(999)
   gg.editAll("8199", gg.TYPE_DWORD)
   gg.toast("☬ Green Yellow ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r8452()
   gg.clearResults()
@@ -1924,28 +1924,28 @@ function r8452()
   gg.getResults(10)
   gg.editAll("7", gg.TYPE_DWORD)
   gg.toast("☬ Color  Red ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function CH21()
   CH855 = gg.multiChoice({
     "Green CL",
     "Red CL",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if CH855 == nil then
   else
     if CH855[1] == true then
       r8551()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH855[2] == true then
       r8552()
-    end-- if stevзn≧
+    end-- if landerく彡
     if CH855[3] == true then
       CH()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r8551()
   gg.clearResults()
@@ -1957,7 +1957,7 @@ function r8551()
   gg.editAll("7", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 855 GREEN ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function r8552()
   gg.clearResults()
@@ -1968,7 +1968,7 @@ function r8552()
   gg.editAll("7", gg.TYPE_DWORD)
   gg.clearResults()
   gg.toast("☬ COLOR 855 RED ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM()
   MN4 = gg.multiChoice({
@@ -1982,42 +1982,42 @@ function HM()
     "🥊 Aimbot Ultra [ GAME ]",
     "🥊 Speed Weapon Bullet [ GAME ]",
     "🔙【 BACK 】"
-  }, nil, (os.date("       🇨🇴cheats steven         .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
+  }, nil, (os.date("       🇺🇸cheats lander       .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
   if MN4 == nil then
   else
     if MN4[1] == true then
       HM1()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[2] == true then
       HM2()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[3] == true then
       HM3()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[4] == true then
       HM4()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[5] == true then
       HM5()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[6] == true then
       HM6()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[7] == true then
       HM7()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[8] == true then
       HM8()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[9] == true then
       HM9()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN4[10] == true then
       HOME()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM1()
   HS = gg.multiChoice({
@@ -2026,27 +2026,27 @@ function HM1()
     "Headshot 75%",
     "Headshot 50%",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if HS == nil then
   else
     if HS[1] == true then
       HS200()
-    end-- if stevзn≧
+    end-- if landerく彡
     if HS[2] == true then
       HS99()
-    end-- if stevзn≧
+    end-- if landerく彡
     if HS[3] == true then
       HS75()
-    end-- if stevзn≧
+    end-- if landerく彡
     if HS[4] == true then
       HS50()
-    end-- if stevзn≧
+    end-- if landerく彡
     if HS[5] == true then
       HM()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HS200()
   gg.clearResults()
@@ -2068,7 +2068,7 @@ function HS200()
   gg.editAll("240", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast(" Auto Headshot 200% ✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HS99()
   gg.clearResults()
@@ -2090,7 +2090,7 @@ function HS99()
   gg.editAll("200", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast(" Auto Headshot 99% ✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HS75()
   gg.clearResults()
@@ -2112,7 +2112,7 @@ function HS75()
   gg.editAll("130", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast(" Auto Headshot 75% ✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HS50()
   gg.clearResults()
@@ -2134,7 +2134,7 @@ function HS50()
   gg.editAll("100", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast(" Auto Headshot 50% ✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM2()
   gg.clearResults()
@@ -2144,7 +2144,7 @@ function HM2()
   gg.editAll("125;140;230", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("Magic Bullet activate✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM3()
   gg.clearResults()
@@ -2161,7 +2161,7 @@ function HM3()
   gg.getResults(50)
   gg.editAll("0", 4)
   gg.toast(" Less Recoil ✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM4()
   gg.clearResults()
@@ -2171,7 +2171,7 @@ function HM4()
   gg.getResults(50)
   gg.editAll("0.00000000001", gg.TYPE_FLOAT)
   gg.toast("AKM Brutal Bullet ᴀcтιvᴀтᴇᴅ!")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM5()
   gg.clearResults()
@@ -2186,7 +2186,7 @@ function HM5()
   gg.getResults(1)
   gg.editAll("0", gg.TYPE_FLOAT)
   gg.toast("☬ Anti Shake ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM6()
   gg.clearResults()
@@ -2207,7 +2207,7 @@ function HM6()
   gg.getResults(20)
   gg.editAll("0", gg.TYPE_FLOAT)
   gg.toast("Wallshoot v2 ✔")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM7()
   gg.clearResults()
@@ -2219,7 +2219,7 @@ function HM7()
   gg.editAll("99999999", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Aimbot Super 100M ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM8()
   gg.clearResults()
@@ -2242,7 +2242,7 @@ function HM8()
   gg.editAll("0.5", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Aimbot Ultra ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HM9()
   gg.clearResults()
@@ -2294,7 +2294,7 @@ function HM9()
   gg.editAll("500000", 16)
   gg.clearResults()
   gg.toast("M24 Speed ")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG()
   MN5 = gg.multiChoice({
@@ -2308,42 +2308,42 @@ function HG()
     "☀️ No Fog Remover [GAME]",
     "✈️ Fast Parachute [ İSLAND ]",
     "🔙【 BACK 】"
-  }, nil, (os.date("       🇨🇴cheats steven         .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
+  }, nil, (os.date("       🇺🇸cheats lander       .                      \nᴛᴏᴅᴀʏ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S")))
   if MN5 == nil then
   else
     if MN5[1] == true then
       HG1()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[2] == true then
       HG2()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[3] == true then
       HG3()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[4] == true then
       HG4()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[5] == true then
       HG5()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[6] == true then
       HG6()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[7] == true then
       HG7()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[8] == true then
       HG8()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[9] == true then
       HG9()
-    end-- if stevзn≧
+    end-- if landerく彡
     if MN5[10] == true then
       HOME()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG1()
   gg.clearResults()
@@ -2360,7 +2360,7 @@ function HG1()
   gg.editAll("1.96875;1.96875;999;1.96875;1.96875;999", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("Anten activate ✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG2()
   gg.clearResults()
@@ -2377,28 +2377,28 @@ function HG2()
   gg.editAll("500", 16)
   gg.clearResults()
   gg.toast("☬ Flying Jeep ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG3()
   HK = gg.multiChoice({
     "Medium Speed [ON]",
     "Medium Speed [OF]",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if HK == nil then
   else
     if HK[1] == true then
       HKAC()
-    end-- if stevзn≧
+    end-- if landerく彡
     if HK[2] == true then
       HKKPT()
-    end-- if stevзn≧
+    end-- if landerく彡
     if HK[3] == true then
       HG()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HKAC()
   gg.clearResults()
@@ -2409,7 +2409,7 @@ function HKAC()
   gg.editAll("1.06", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Speed Run Medium ON ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HKKPT()
   gg.clearResults()
@@ -2420,28 +2420,28 @@ function HKKPT()
   gg.editAll("1", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Speed Run Medium OFF ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG4()
   KB = gg.multiChoice({
     "Wide View 30%",
     "Wide View 60%",
     " BACK "
-  }, nil, "            🇨🇴cheats steven     ")
+  }, nil, "            🇺🇸cheats lander   ")
   if KB == nil then
   else
     if KB[1] == true then
       KB1()
-    end-- if stevзn≧
+    end-- if landerく彡
     if KB[2] == true then
       KB2()
-    end-- if stevзn≧
+    end-- if landerく彡
     if KB[3] == true then
       HG()
-    end-- if stevзn≧
+    end-- if landerく彡
   end
   PUBGMH = -1
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function KB1()
   gg.setRanges(gg.REGION_ANONYMOUS)
@@ -2452,7 +2452,7 @@ function KB1()
   gg.editAll("350", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wide View 30% ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function KB2()
   gg.setRanges(gg.REGION_ANONYMOUS)
@@ -2463,7 +2463,7 @@ function KB2()
   gg.editAll("438", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("☬ Wide View 60% ☬")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG5()
   gg.setRanges(gg.REGION_ANONYMOUS)
@@ -2472,7 +2472,7 @@ function HG5()
   revert = gg.getResults(10, nil, nil, nil, nil, nil, nil, nil, nil)
   gg.editAll("-99", gg.TYPE_FLOAT)
   gg.toast(" Black Sky ✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG6()
   gg.clearResults()
@@ -2494,7 +2494,7 @@ function HG6()
   gg.getResults(500)
   gg.editAll("1000", gg.TYPE_FLOAT)
   gg.toast("ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG7()
   gg.clearResults()
@@ -2507,7 +2507,7 @@ function HG7()
   gg.editAll("-0.23", 16)
   gg.clearResults()
   gg.toast("Speed All Vehicle activated!")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG8()
   gg.clearResults()
@@ -2518,7 +2518,7 @@ function HG8()
   gg.editAll("-1 759 781 554 395 021 312", gg.TYPE_QWORD)
   gg.clearResults()
   gg.toast(" Fog Remover ✓")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function HG9()
   gg.clearResults()
@@ -2535,21 +2535,21 @@ function HG9()
   gg.editAll("0", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast(" Fast Parachute activate✓ ")
-end-- function | stevзn≧
+end-- function | landerく彡
 
 function EXIT()
   print("  🇨🇴cheats steven Script  ")
   gg.skipRestoreState()
   gg.setVisible(true)
   os.exit()
-end-- function | stevзn≧
+end-- function | landerく彡
 
 while true do
   if gg.isVisible(true) then
     PUBGMH = 1
     gg.setVisible(false)
-  end-- if stevзn≧
+  end-- if landerく彡
   if PUBGMH == 1 then
     HOME()
-  end-- if stevзn≧
-end-- while | stevзn≧
+  end-- if landerく彡
+end-- while | landerく彡
